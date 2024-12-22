@@ -20,8 +20,8 @@ Make sure you have Python 3 installed.
 
 Run the script:
 
-Copy code
-python password_generator_app.py
+
+ password_generator_app.py
 The app window will open. Enter the desired password length, click the "Generate Password" button, and the password will be displayed in the app.
 
 How the Code Works
